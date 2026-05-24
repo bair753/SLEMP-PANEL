@@ -32,7 +32,7 @@ If you want to install SLEMP Panel in a custom directory (e.g., `~/SLEMP`), you 
 ```bash
 # Clone the repository
 git clone https://github.com/bair753/SLEMP-PANEL.git
-cd ~/slemp/panel
+cd SLEMP-PANEL
 
 # Run the installation script
 bash scripts/install.sh
