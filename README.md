@@ -26,12 +26,7 @@ Simple Linux Engine-X (Openresty) MySQL PHP-FPM. Linux panel for VPS (or Dedicat
 
 There are two ways to install SLEMP Panel: using the automated installation script or manually from the source.
 
-**Method 1: Automated Installation (Recommended for Linux)**
-```bash
-curl --insecure -fsSL https://basoro.id/slemp.sh | bash
-```
-
-**Method 2: Manual Installation from Source (Recommended for MacOSX / Local Development)**
+**Method Manual Installation from Source (Recommended for MacOSX / Local Development)**
 If you want to install SLEMP Panel in a custom directory (e.g., `~/SLEMP`), you can clone the repository and run the installation script manually. The script dynamically detects your path and sets up the environment accordingly.
 
 ```bash
